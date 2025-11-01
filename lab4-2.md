@@ -7,7 +7,7 @@
 |Жуллярова Анастасия Федоровна|Б-ФИИТ-25|432|
 |Иванов Иван Иванович|**отчислен из-за пропусков**|430|
 
-```go
+```cpp
 #include <iostream>
 int main(int argc, char *argv[]) {
     std::cout << "Hello, Zhullyarova Anastasiya Fedorovna!" << std::endl;
@@ -16,4 +16,4 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-![Google](https://en.wikipedia.org/wiki/File:Google_2015_logo.svg)
+![Google](https://pngimg.com/uploads/google/google_PNG19644.png)
